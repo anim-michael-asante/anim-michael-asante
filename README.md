@@ -11,27 +11,31 @@ Entry-Level Data Science & ML Developer | Web Developer & Designer (Django, Tail
 
 ## 🔭 About Me
 - Entry-level **Data Science & Machine Learning developer** with a strong **cybersecurity background**
-- Passionate about **data-driven decision making**, **secure backend systems**, and **modern web design**
-- Skilled in **Python**, **Django**, **data analysis**, and **database-driven applications**
-- Active **Kaggle community member** and **Kaggle Python Coders badge holder**
-- I enjoy blending **Data Science**, **Web Development**, and **Security principles** to solve real-world problems
+- Skilled in **Python**, **Django**, **data analysis**, and **secure backend systems**
+- Web **Developer & Designer**, focused on clean, responsive UI using **Tailwind CSS** and **Framer**
+- Active **Kaggle Community Member** with verified Python certifications
+- Passionate about turning **raw data into insights** and building **secure, scalable applications**
 - 📫 Reach me at **[animmichaelasante@gmail.com](mailto:animmichaelasante@gmail.com)**
-- 💡 Always learning, building, and improving practical solutions
+- 💡 Always learning, building, and improving real-world solutions
 
 ---
 
-## 📈 Kaggle Profile & Stats
-- 🧠 Active **Kaggle community member**
+## 📈 Kaggle Profile, Stats & Badges
+- 🌍 **Active Kaggle Community Member**
 - 🏅 **Kaggle Python Coders Badge** holder
-- 📜 **Kaggle Python Certification** earned
+- 📜 **Kaggle Python Certification**
+- 📜 **Kaggle Data Science Certification**
 - 📊 Hands-on experience with datasets, notebooks, and ML workflows
 
 <p align="left">
   <a href="https://www.kaggle.com/animmichaelasante" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile"/>
+    <img src="https://img.shields.io/badge/Kaggle-Community%20Member-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile"/>
   </a>
   <a href="https://www.kaggle.com/certification/badges/animmichaelasante/30" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle%20Python-Certified-blue?style=for-the-badge&logo=python&logoColor=white" alt="Kaggle Python Certification"/>
+  </a>
+  <a href="https://www.kaggle.com/certification/badges/animmichaelasante/101" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle%20Data%20Science-Certified-success?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Data Science Certification"/>
   </a>
 </p>
 
@@ -41,9 +45,6 @@ Entry-Level Data Science & ML Developer | Web Developer & Designer (Django, Tail
 <p align="left">
   <a href="https://linkedin.com/in/anim-michael-asante" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://x.com/M_Asante_Anim" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
   </a>
   <a href="mailto:animmichaelasante@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40"/>
@@ -61,7 +62,6 @@ Entry-Level Data Science & ML Developer | Web Developer & Designer (Django, Tail
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -77,7 +77,6 @@ Entry-Level Data Science & ML Developer | Web Developer & Designer (Django, Tail
   <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
   <a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40"/></a>
   <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
   <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
   <a href="https://www.framer.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/framer.svg" width="40"/></a>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
@@ -102,5 +101,5 @@ Entry-Level Data Science & ML Developer | Web Developer & Designer (Django, Tail
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anim-michael-asante&theme=algolia&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anim-michael-asante &theme=algolia&margin-w=15"/>
 </p>
