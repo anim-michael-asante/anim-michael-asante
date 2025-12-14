@@ -97,11 +97,3 @@ Entry-Level Data Science & ML Developer | Web Developer & Designer (Django, Tail
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anim-michael-asante&theme=dark&layout=compact"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anim-michael-asante&theme=dark&margin-w=15" alt="GitHub Trophies"/>
-</p>
-
-
