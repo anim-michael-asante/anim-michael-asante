@@ -6,12 +6,12 @@ Entry-Level Data Science & ML Developer | Web Developer & Designer | Python Prog
 
 <p align="center">
   <a href="https://tryhackme.com/p/Aerixis" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Aerixis.png" alt="TryHackMe Badge"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Aerixis.png" alt="TryHackMe Badge" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anim-michael-asante&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=anim-michael-asante&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -59,13 +59,13 @@ Entry-Level Data Science & ML Developer | Web Developer & Designer | Python Prog
 
 <p align="left">
   <a href="https://www.kaggle.com/animmichaelasante" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Community%20Member-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kaggle-Community%20Member-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/certification/badges/animmichaelasante/30" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle%20Python-Certified-blue?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kaggle%20Python-Certified-blue?style=for-the-badge&logo=python&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/certification/badges/animmichaelasante/101" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle%20Data%20Science-Certified-success?style=for-the-badge&logo=kaggle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kaggle%20Data%20Science-Certified-success?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
@@ -73,11 +73,11 @@ Entry-Level Data Science & ML Developer | Web Developer & Designer | Python Prog
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anim-michael-asante&theme=dark&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anim-michael-asante&theme=dark&show_icons=true" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=anim-michael-asante&theme=dark"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=anim-michael-asante&theme=dark" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anim-michael-asante&theme=dark&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anim-michael-asante&theme=dark&layout=compact" />
 </p>
 
 ---
@@ -85,9 +85,9 @@ Entry-Level Data Science & ML Developer | Web Developer & Designer | Python Prog
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/anim-michael-asante" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="mailto:animmichaelasante@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" />
   </a>
 </p>
