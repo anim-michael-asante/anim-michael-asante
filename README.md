@@ -1,55 +1,29 @@
 <h1 align="center">Hi 👋, I'm <b>Michael Asante Anim</b></h1>
+
 <h3 align="center">
-Entry-Level Data Science & ML Developer | Web Developer & Designer (Django, Tailwind, Framer) | Python Programmer | Cybersecurity Enthusiast | Open to Internships
+Entry-Level Data Science & ML Developer | Web Developer & Designer | Python Programmer | Cybersecurity Enthusiast | Open to Internships
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anim-michael-asante&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://tryhackme.com/p/Aerixis" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Aerixis.png" alt="TryHackMe Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anim-michael-asante&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
 ## 🔭 About Me
-- Entry-level **Data Science & Machine Learning developer** with a strong **cybersecurity background**
-- Skilled in **Python**, **Django**, **data analysis**, and **secure backend systems**
-- Web **Developer & Designer**, focused on clean, responsive UI using **Tailwind CSS** and **Framer**
-- Active **Kaggle Community Member** with verified Python certifications
+- Entry-level **Data Science & Machine Learning developer** with a strong **cybersecurity foundation**
+- Experienced in **Python**, **Django**, data analysis, and building **secure backend systems**
+- Web **Developer & Designer**, focused on clean, responsive interfaces using **Tailwind CSS** and **Framer**
+- Active **Kaggle community member** with verified certifications
 - Passionate about turning **raw data into insights** and building **secure, scalable applications**
+- 💡 Always learning, building, and improving real-world solutions  
 - 📫 Reach me at **[animmichaelasante@gmail.com](mailto:animmichaelasante@gmail.com)**
-- 💡 Always learning, building, and improving real-world solutions
-
----
-
-## 📈 Kaggle Profile, Stats & Badges
-- 🌍 **Active Kaggle Community Member**
-- 🏅 **Kaggle Python Coders Badge** holder
-- 📜 **Kaggle Python Certification**
-- 📜 **Kaggle Data Science Certification**
-- 📊 Hands-on experience with datasets, notebooks, and ML workflows
-
-<p align="left">
-  <a href="https://www.kaggle.com/animmichaelasante" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Community%20Member-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile"/>
-  </a>
-  <a href="https://www.kaggle.com/certification/badges/animmichaelasante/30" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle%20Python-Certified-blue?style=for-the-badge&logo=python&logoColor=white" alt="Kaggle Python Certification"/>
-  </a>
-  <a href="https://www.kaggle.com/certification/badges/animmichaelasante/101" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle%20Data%20Science-Certified-success?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Data Science Certification"/>
-  </a>
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/anim-michael-asante" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="mailto:animmichaelasante@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40"/>
-  </a>
-</p>
 
 ---
 
@@ -59,31 +33,40 @@ Entry-Level Data Science & ML Developer | Web Developer & Designer (Django, Tail
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🧰 Languages and Tools
+## 🛡️ Cybersecurity & Practical Learning
+- Active **TryHackMe** learner with hands-on labs
+- Strong understanding of **secure backend development**
+- Interest in **offensive security**, threat awareness, and safe system design
+- Focused on applying security best practices to real-world applications
+
+---
+
+## 📈 Kaggle Profile, Stats & Badges
+- 🌍 **Active Kaggle Community Member**
+- 🏅 **Kaggle Python Coders Badge**
+- 📜 **Kaggle Python Certification**
+- 📜 **Kaggle Data Science Certification**
+- 📊 Hands-on experience with datasets, notebooks, and ML workflows
+
 <p align="left">
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40"/></a>
-  <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
-  <a href="https://www.framer.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/framer.svg" width="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.kaggle.com/animmichaelasante" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Community%20Member-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/certification/badges/animmichaelasante/30" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle%20Python-Certified-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/certification/badges/animmichaelasante/101" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle%20Data%20Science-Certified-success?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -97,3 +80,14 @@ Entry-Level Data Science & ML Developer | Web Developer & Designer (Django, Tail
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anim-michael-asante&theme=dark&layout=compact"/>
 </p>
 
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/anim-michael-asante" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="mailto:animmichaelasante@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40"/>
+  </a>
+</p>
