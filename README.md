@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <b>Michael Asante Anim</b></h1>
 
 <h3 align="center">
-Entry-Level Data Science & ML Developer | Web Developer & Designer | Python Programmer | Cybersecurity Enthusiast | Open to Internships
+Entry-Level Data Science & ML Developer | Web Developer | Python Programmer | Cybersecurity Enthusiast
 </h3>
 
 <p align="center">
@@ -11,19 +11,18 @@ Entry-Level Data Science & ML Developer | Web Developer & Designer | Python Prog
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anim-michael-asante&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=anim-michael-asante&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🔭 About Me
-- Entry-level **Data Science & Machine Learning developer** with a strong **cybersecurity foundation**
-- Experienced in **Python**, **Django**, data analysis, and building **secure backend systems**
-- Web **Developer & Designer**, focused on clean, responsive interfaces using **Tailwind CSS** and **Framer**
-- Active **Kaggle community member** with verified certifications
-- Passionate about turning **raw data into insights** and building **secure, scalable applications**
-- 💡 Always learning, building, and improving real-world solutions  
-- 📫 Reach me at **[animmichaelasante@gmail.com](mailto:animmichaelasante@gmail.com)**
+- Entry-level **Data Science & Machine Learning developer** with a solid **cybersecurity foundation**
+- Strong in **Python**, **Django**, data analysis, and **secure backend development**
+- Web developer focused on **clean, responsive UI** using **Tailwind CSS** and **Framer**
+- Active **Kaggle contributor** with verified certifications
+- Interested in building **secure, data-driven, real-world applications**
+- 📫 **Email:** [animmichaelasante@gmail.com](mailto:animmichaelasante@gmail.com)
 
 ---
 
@@ -42,30 +41,35 @@ Entry-Level Data Science & ML Developer | Web Developer & Designer | Python Prog
 
 ---
 
-## 🛡️ Cybersecurity & Practical Learning
-- Active **TryHackMe** learner with hands-on labs
-- Strong understanding of **secure backend development**
-- Interest in **offensive security**, threat awareness, and safe system design
-- Focused on applying security best practices to real-world applications
+## 🚀 Projects
+
+**Secure Django Backend / ML Project**
+![CI](https://github.com/anim-michael-asante/repo/actions/workflows/ci.yml/badge.svg)
+
+- CI-enabled repository with automated checks
+- Focus on secure backend logic and data handling
+- Built with Python and Django
+- Designed with security and scalability in mind
 
 ---
 
-## 📈 Kaggle Profile, Stats & Badges
-- 🌍 **Active Kaggle Community Member**
-- 🏅 **Kaggle Python Coders Badge**
-- 📜 **Kaggle Python Certification**
-- 📜 **Kaggle Data Science Certification**
-- 📊 Hands-on experience with datasets, notebooks, and ML workflows
+## 🛡️ Cybersecurity
+- Hands-on labs on **TryHackMe**
+- Knowledge of **secure backend design** and threat awareness
+- Interest in **offensive security** and practical defense
+- Applying security principles to everyday applications
+
+---
+
+## 📈 Kaggle
+- Active Kaggle community member  
+- **Python Coders Badge**
+- **Python Certification**
+- **Data Science Certification**
 
 <p align="left">
   <a href="https://www.kaggle.com/animmichaelasante" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Community%20Member-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/certification/badges/animmichaelasante/30" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle%20Python-Certified-blue?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/certification/badges/animmichaelasante/101" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle%20Data%20Science-Certified-success?style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
