@@ -1,7 +1,7 @@
 <h1 align="center">Michael Asante Anim</h1>
 
 <h3 align="center">
-Cybersecurity Student &nbsp;|&nbsp; Python Developer &nbsp;|&nbsp; ML & Data Science &nbsp;|&nbsp; Secure Backend Engineering
+Cybersecurity Student &nbsp;|&nbsp; Python Developer &nbsp;|&nbsp; Data Science &nbsp;|&nbsp; Secure Backend Engineering
 </h3>
 
 <p align="center">
@@ -22,8 +22,7 @@ BSc Cybersecurity student at the **University of Mines and Technology (UMaT), Ta
 
 - Focused on **secure application development** with Django, applying OWASP principles and encryption-first design
 - Developing practical skills in **machine learning and data analysis** with Python, scikit-learn, and pandas
-- Web developer building **clean, responsive interfaces** with Tailwind CSS and Framer
-- Member of **The Digital Frontline** — a cybersecurity student group at UMaT focused on security education and awareness
+- Web developer building **clean, responsive interfaces** with Tailwind CSS 
 - Active on **TryHackMe** and **Kaggle**, applying knowledge in real-world lab environments
 - Personal brand: **0x1aerixis** — cybersecurity and programming content on X
 
@@ -40,7 +39,7 @@ BSc Cybersecurity student at the **University of Mines and Technology (UMaT), Ta
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-**Data & ML**
+**Data Science**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
