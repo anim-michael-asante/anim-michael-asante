@@ -127,11 +127,22 @@ A full-stack e-commerce application with a custom admin dashboard.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anim-michael-asante&theme=dark&show_icons=true&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=anim-michael-asante&theme=dark&show_icons=true&hide_border=true&cache_seconds=1800" 
+    alt=""
+  />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=anim-michael-asante&theme=dark&hide_border=true" />
+
+  <img 
+    src="https://streak-stats.demolab.com?user=anim-michael-asante&theme=dark&hide_border=true&cache_seconds=1800" 
+    alt=""
+  />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anim-michael-asante&theme=dark&layout=compact&hide_border=true" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anim-michael-asante&theme=dark&layout=compact&hide_border=true&cache_seconds=1800" 
+    alt=""
+  />
 </p>
 
 ---
