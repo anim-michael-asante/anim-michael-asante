@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm <b>Michael Asante Anim</b></h1>
+<h1 align="center">Michael Asante Anim</h1>
 
 <h3 align="center">
-Entry-Level Data Science & ML Developer | Web Developer | Python Programmer | Cybersecurity Enthusiast
+Cybersecurity Student &nbsp;|&nbsp; Python Developer &nbsp;|&nbsp; ML & Data Science &nbsp;|&nbsp; Secure Backend Engineering
 </h3>
 
 <p align="center">
   <a href="https://tryhackme.com/p/Aerixis" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Aerixis.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Aerixis.png" alt="TryHackMe" />
   </a>
 </p>
 
@@ -16,56 +16,103 @@ Entry-Level Data Science & ML Developer | Web Developer | Python Programmer | Cy
 
 ---
 
-## 🔭 About Me
-- Entry-level **Data Science & Machine Learning developer** with a solid **cybersecurity foundation**
-- Strong in **Python**, **Django**, data analysis, and **secure backend development**
-- Web developer focused on **clean, responsive UI** using **Tailwind CSS** and **Framer**
-- Active **Kaggle contributor** with verified certifications
-- Interested in building **secure, data-driven, real-world applications**
-- 📫 **Email:** [animmichaelasante@gmail.com](mailto:animmichaelasante@gmail.com)
+## About Me
+
+BSc Cybersecurity student at the **University of Mines and Technology (UMaT), Tarkwa, Ghana** — building at the intersection of security engineering, data science, and backend development.
+
+- Focused on **secure application development** with Django, applying OWASP principles and encryption-first design
+- Developing practical skills in **machine learning and data analysis** with Python, scikit-learn, and pandas
+- Web developer building **clean, responsive interfaces** with Tailwind CSS and Framer
+- Member of **The Digital Frontline** — a cybersecurity student group at UMaT focused on security education and awareness
+- Active on **TryHackMe** and **Kaggle**, applying knowledge in real-world lab environments
+- Personal brand: **0x1aerixis** — cybersecurity and programming content on X
+
+**Email:** [animmichaelasante@gmail.com](mailto:animmichaelasante@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
+
+**Languages & Frameworks**
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**Data & ML**
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🚀 Projects
+## Projects
 
-**Secure Django Backend / ML Project**
-![CI](https://github.com/anim-michael-asante/repo/actions/workflows/ci.yml/badge.svg)
+### SecureVault — Enterprise Role-Based Encrypted File Portal
 
-- CI-enabled repository with automated checks
-- Focus on secure backend logic and data handling
-- Built with Python and Django
-- Designed with security and scalability in mind
+A production-ready Django application for secure enterprise document management.
 
----
+- AES-256 file encryption using Fernet with per-file unique keys
+- PBKDF2-HMAC-SHA256 master key derivation (100,000 iterations)
+- Role-based access control across 8 departments and 9 roles
+- Full audit logging — every download recorded with timestamp and IP
+- On-the-fly decryption served directly to authorized users
 
-## 🛡️ Cybersecurity
-- Hands-on labs on **TryHackMe**
-- Knowledge of **secure backend design** and threat awareness
-- Interest in **offensive security** and practical defense
-- Applying security principles to everyday applications
+![Python](https://img.shields.io/badge/Python-3.11+-blue?style=flat-square)
+![Django](https://img.shields.io/badge/Django-4.2+-green?style=flat-square)
+![AES-256](https://img.shields.io/badge/Encryption-AES--256-red?style=flat-square)
 
 ---
 
-## 📈 Kaggle
-- Active Kaggle community member  
-- **Python Coders Badge**
-- **Python Certification**
-- **Data Science Certification**
+### Aerixis-ShopNow — Django E-Commerce Platform
+
+A full-stack e-commerce application with a custom admin dashboard.
+
+- Product management, cart, and checkout flow
+- Custom admin panel with order and inventory controls
+- Clean UI with responsive design
+- Documented and deployed via GitHub
+
+---
+
+## Cybersecurity
+
+- Hands-on labs via **TryHackMe** — active practical learning
+- Studying **offensive security**, vulnerability research, and network defense
+- Applying security principles directly in every project — CSRF, RBAC, injection prevention, encrypted storage
+- Co-organizing cybersecurity awareness events with **The Digital Frontline** at UMaT
+
+---
+
+## Certifications
+
+**Anthropic**
+
+| Certification | Issuer |
+|---|---|
+| AI Capabilities and Limitations | Anthropic |
+| AI Fluency for Educators | Anthropic |
+| AI Fluency for Students | Anthropic |
+| AI Fluency: Framework & Foundations | Anthropic |
+| Claude 101 | Anthropic |
+| Introduction to Agent Skills | Anthropic |
+
+**Kaggle**
+
+| Certification | Issuer |
+|---|---|
+| Python Certification | Kaggle |
+| Data Science Certification | Kaggle |
+| Python Coders Badge | Kaggle |
 
 <p align="left">
   <a href="https://www.kaggle.com/animmichaelasante" target="_blank">
@@ -75,23 +122,37 @@ Entry-Level Data Science & ML Developer | Web Developer | Python Programmer | Cy
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anim-michael-asante&theme=dark&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anim-michael-asante&theme=dark&show_icons=true&hide_border=true" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=anim-michael-asante&theme=dark" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=anim-michael-asante&theme=dark&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anim-michael-asante&theme=dark&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anim-michael-asante&theme=dark&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## Connect
+
 <p align="left">
   <a href="https://linkedin.com/in/anim-michael-asante" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
+  <a href="https://www.kaggle.com/animmichaelasante" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="30" width="40" />
+  </a>
+  <a href="https://tryhackme.com/p/Aerixis" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tryhackme/tryhackme-icon.svg" height="30" width="40" />
+  </a>
   <a href="mailto:animmichaelasante@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>BSc Cybersecurity · University of Mines and Technology, Tarkwa · 0x1aerixis</sub>
 </p>
