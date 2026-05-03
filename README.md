@@ -81,8 +81,6 @@ A full-stack e-commerce application with a custom admin dashboard.
 - Custom admin panel with order and inventory controls
 - Clean UI with responsive design
 - Documented and deployed via GitHub
-
-- 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![Django](https://img.shields.io/badge/Django-4.2-092E20?style=flat&logo=django&logoColor=white)](https://djangoproject.com)
 [![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org)
