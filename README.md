@@ -1,7 +1,7 @@
 <h1 align="center">Michael Asante Anim</h1>
 
 <h3 align="center">
-Cybersecurity Student &nbsp;|&nbsp; Python Developer &nbsp;|&nbsp; Data Science &nbsp;|&nbsp; Secure Backend Engineering
+Cybersecurity Student &nbsp;|&nbsp; Python Developer &nbsp;|&nbsp; Data Science &nbsp;|&nbsp; Secure Backend Engineering | &nbsp; Application Security Practitioner
 </h3>
 
 <p align="center">
