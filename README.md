@@ -138,16 +138,16 @@ A full-stack e-commerce application with a custom admin dashboard.
 
 <p align="left">
   <a href="https://linkedin.com/in/anim-michael-asante" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
   <a href="https://www.kaggle.com/animmichaelasante" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30"/>
   </a>
   <a href="https://tryhackme.com/p/Aerixis" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tryhackme/tryhackme-icon.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-FF6A00?style=for-the-badge&logo=tryhackme&logoColor=white" height="30"/>
   </a>
   <a href="mailto:animmichaelasante@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Email-animmichaelasante@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
 </p>
 
