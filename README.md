@@ -117,6 +117,18 @@ A full-stack e-commerce application with a custom admin dashboard — built with
 
 ## Certifications
 
+**Cisco Networking Academy**
+
+| Certification | Issuer |
+|---|---|
+| JavaScript Essentials 1 | Cisco Networking Academy |
+| JavaScript Essentials 2 | Cisco Networking Academy |
+| Networking Basics | Cisco Networking Academy |
+| Networking Devices and Initial Configuration | Cisco Networking Academy |
+| Network Addressing and Basic Troubleshooting | Cisco Networking Academy |
+| Introduction to Cybersecurity | Cisco Networking Academy |
+| Introduction to Programming Using Python | Cisco Networking Academy |
+
 **Anthropic**
 
 | Certification | Issuer |
