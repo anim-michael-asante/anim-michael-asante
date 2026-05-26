@@ -121,24 +121,40 @@ A full-stack e-commerce application with a custom admin dashboard — built with
 
 | Certification | Issuer |
 |---|---|
-| JavaScript Essentials 1 | Cisco Networking Academy |
-| JavaScript Essentials 2 | Cisco Networking Academy |
+| Introduction to Cybersecurity | Cisco Networking Academy |
 | Networking Basics | Cisco Networking Academy |
 | Networking Devices and Initial Configuration | Cisco Networking Academy |
 | Network Addressing and Basic Troubleshooting | Cisco Networking Academy |
-| Introduction to Cybersecurity | Cisco Networking Academy |
-| Introduction to Programming Using Python | Cisco Networking Academy |
+| JavaScript Essentials 1 | Cisco Networking Academy |
+| JavaScript Essentials 2 | Cisco Networking Academy |
+| Python Essentials 1 | Cisco Networking Academy |
+| Python Essentials 2 | Cisco Networking Academy |
 
 **Anthropic**
 
 | Certification | Issuer |
 |---|---|
 | AI Capabilities and Limitations | Anthropic |
+| AI Fluency: Framework & Foundations | Anthropic |
 | AI Fluency for Educators | Anthropic |
 | AI Fluency for Students | Anthropic |
-| AI Fluency: Framework & Foundations | Anthropic |
-| Claude 101 | Anthropic |
 | Introduction to Agent Skills | Anthropic |
+| Certificate of Completion: Claude 101 | Anthropic |
+
+**ISC2**
+
+| Certification | Issuer |
+|---|---|
+| ISC2 Candidate | ISC2 |
+| CC Domain 1: Security Principles | ISC2 |
+| CC Domain 2: Incident Response, Business Continuity and Disaster Recovery Concepts | ISC2 |
+
+**Other**
+
+| Certification | Issuer |
+|---|---|
+| Python | Kaggle |
+| Zero Trust Cyber Security Model — Imperative Concepts for Beginners | Alison (CPD Certified) |
 
 ---
 
