@@ -21,9 +21,11 @@ Full-Stack Developer &nbsp;|&nbsp; Web Application Security &nbsp;|&nbsp; Penetr
 BSc Cybersecurity student at the **University of Mines and Technology (UMaT), Tarkwa, Ghana** — building at the intersection of secure full-stack development and offensive security.
 
 - Building production-grade **Django web applications** with OWASP-first security design
-- Actively training in **Web Application Security** via PortSwigger Web Academy
-- Developing **Network Security & Penetration Testing** skills through TryHackMe and home lab practice
-- Running an active **VMware home lab** — Windows Server 2022, Windows 10, and Kali Linux attacker machine
+- Systematically working through **PortSwigger Web Security Academy** — 22 labs completed across SQL Injection and Path Traversal, with professional write-ups published on GitHub
+- Preparing for the **ISC2 CC exam** (July 2026) — all five domain courses completed
+- Pursuing the **BSCP certification pathway** (eWPT → OSCP long-term)
+- Running an active **VMware home lab** — Windows Server 2022 (DC), Windows 10, and Kali Linux attacker machine
+- Enrolled in the **One Million Coders Ghana** program
 - Personal brand: **0x1aerixis** — cybersecurity and development content on X and GitHub
 
 **Email:** [animmichaelasante@gmail.com](mailto:animmichaelasante@gmail.com)
@@ -96,65 +98,88 @@ A full-stack e-commerce application with a custom admin dashboard — built with
 
 ## Cybersecurity
 
-**Offensive Security Practice**
-- Web Application Security training via **PortSwigger Web Academy** — SQL Injection, Authentication, Access Control, XSS
-- Penetration Testing labs on **TryHackMe** — Jr Penetration Tester path
-- Hands-on exploitation practice in **Kali Linux** with Burp Suite, Nmap, Metasploit, and Wireshark
+**PortSwigger Web Security Academy**
+- 22 of 263 labs completed — SQL Injection (16 labs), Path Traversal (6 labs)
+- Professional write-ups for every lab: CVSS v3.1 scoring, CWE mapping, OWASP classification, MITRE ATT&CK mapping, full attack chain, and remediation guidance
+- Write-ups published at [`github.com/anim-michael-asante/portswigger-web-security-writeups`](https://github.com/anim-michael-asante/portswigger-web-security-writeups)
+- Target: **BSCP certification** (eWPT → OSCP long-term pathway)
+
+**ISC2 Certified in Cybersecurity (CC) — Exam Prep**
+- All five domain courses completed: Security Principles, Incident Response/BC/DR, Access Controls, Network Security, Security Operations
+- Exam target: July 2026
+
+**Academic Lab Work**
+- **CY375 (Network Security):** ARP spoofing attack and DAI mitigation lab — VMware home lab with Windows Server 2022, Windows 10, and Kali Linux
+- **CY384 (Cybersecurity Lab II):** Structured vulnerability assessment of gra.gov.gh — confirmed CVE-2024-2876, CVE-2023-6528, and CVE-2026-3222 using WPScan and Nessus; produced formal proposal and group presentation
+
+**CTF & Practice**
+- NEST CTF (Nkonsonkon Bank scenario) — SSH brute-force, OSINT, and web application testing
+- TryHackMe — Jr Penetration Tester path
 
 **Home Lab Environment**
 - VMware-based lab: Windows Server 2022 (Domain Controller), Windows 10 (client), Kali Linux (attacker)
-- Active directory attacks, network traffic analysis, and privilege escalation exercises
+- Active directory attacks, network traffic analysis, privilege escalation, and password cracking exercises (John the Ripper, Hashcat)
 
 **Security in Development**
 - Applying OWASP Top 10 principles directly in every project
 - Mitigating CSRF, RBAC misconfigurations, injection vulnerabilities, and insecure cryptographic storage by design
 
 **Community**
-- Co-organizing cybersecurity awareness events with **The Digital Frontline** at UMaT
-- Documenting security findings and write-ups under the **0x1aerixis** brand
+- Organized **CyberWatch Ghana** webinar at UMaT — produced associated group report
+- UMaT Cybersecurity Club — organizational and leadership capacity
 
 ---
 
 ## Certifications
 
-**Cisco Networking Academy**
-
-| Certification | Issuer |
-|---|---|
-| Introduction to Cybersecurity | Cisco Networking Academy |
-| Networking Basics | Cisco Networking Academy |
-| Networking Devices and Initial Configuration | Cisco Networking Academy |
-| Network Addressing and Basic Troubleshooting | Cisco Networking Academy |
-| JavaScript Essentials 1 | Cisco Networking Academy |
-| JavaScript Essentials 2 | Cisco Networking Academy |
-| Python Essentials 1 | Cisco Networking Academy |
-| Python Essentials 2 | Cisco Networking Academy |
-
-**Anthropic**
-
-| Certification | Issuer |
-|---|---|
-| AI Capabilities and Limitations | Anthropic |
-| AI Fluency: Framework & Foundations | Anthropic |
-| AI Fluency for Educators | Anthropic |
-| AI Fluency for Students | Anthropic |
-| Introduction to Agent Skills | Anthropic |
-| Certificate of Completion: Claude 101 | Anthropic |
-
 **ISC2**
 
-| Certification | Issuer |
+| Certification | Date |
 |---|---|
-| ISC2 Candidate | ISC2 |
-| CC Domain 1: Security Principles | ISC2 |
-| CC Domain 2: Incident Response, Business Continuity and Disaster Recovery Concepts | ISC2 |
+| ISC2 Candidate (Credly, exp. May 2027) | — |
+| CC Domain 1: Security Principles | May 2026 |
+| CC Domain 2: Incident Response, BC/DR | May 2026 |
+| CC Domain 3: Access Controls Concepts | May 2026 |
+| CC Domain 4: Network Security | May 28, 2026 |
+| CC Domain 5: Security Operations | May 31, 2026 |
+
+**Google / Coursera**
+
+| Certification | Date |
+|---|---|
+| Foundations of Cybersecurity | May 28, 2026 |
+| Accelerate Your Job Search with AI | May 28, 2026 |
+
+**Cisco Networking Academy**
+
+| Certification | Date |
+|---|---|
+| Introduction to Cybersecurity | Sep 27, 2024 |
+| Networking Basics | Oct 17, 2024 |
+| Python Essentials 1 | Oct 15, 2024 |
+| Networking Devices and Initial Configuration | Nov 27, 2024 |
+| JavaScript Essentials 1 | Dec 05, 2024 |
+| JavaScript Essentials 2 | Jan 20, 2025 |
+| Network Addressing and Basic Troubleshooting | Jan 15, 2025 |
+| Python Essentials 2 | May 13, 2026 |
+
+**Anthropic Academy**
+
+| Certification |
+|---|
+| AI Capabilities and Limitations |
+| Introduction to Agent Skills |
+| AI Fluency: Framework & Foundations |
+| AI Fluency for Educators |
+| AI Fluency for Students |
+| Certificate of Completion: Claude 101 |
 
 **Other**
 
 | Certification | Issuer |
 |---|---|
 | Python | Kaggle |
-| Zero Trust Cyber Security Model — Imperative Concepts for Beginners | Alison (CPD Certified) |
+| Zero Trust Cyber Security Model (CPD Certified) | Alison |
 
 ---
 
@@ -182,7 +207,7 @@ A full-stack e-commerce application with a custom admin dashboard — built with
 ## Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/anim-michael-asante" target="_blank">
+  <a href="https://linkedin.com/in/michael-asante-anim" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
   <a href="https://tryhackme.com/p/Aerixis" target="_blank">
@@ -199,5 +224,5 @@ A full-stack e-commerce application with a custom admin dashboard — built with
 ---
 
 <p align="center">
-  <sub>BSc Cybersecurity · University of Mines and Technology, Tarkwa · 0x1aerixis</sub>
+  <sub>BSc Cybersecurity · University of Mines and Technology, Tarkwa · 0x1aerixis · Built by Grace.</sub>
 </p>
